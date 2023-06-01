@@ -1,0 +1,1 @@
+docker run --name withoutconda -v /workspace/test-build/:/workspace/test-build/ -w /workspace/test-build/hugedict-withoutconda -it test/withoutconda bash

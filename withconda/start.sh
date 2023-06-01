@@ -1,0 +1,1 @@
+docker run --name withconda -v /workspace/test-build/:/workspace/test-build/ -w /workspace/test-build/hugedict-withconda -it test/withconda bash
